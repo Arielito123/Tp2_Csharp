@@ -1,0 +1,10 @@
+/home/nicolas/c#/TP 2/Ejercicio10/obj/x86/Debug/Ejercicio10.csprojAssemblyReference.cache
+/home/nicolas/c#/TP 2/Ejercicio10/obj/x86/Debug/Ejercicio10.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/TP 2/Ejercicio10/bin/Debug/Ejercicio10.exe
+/home/nicolas/c#/TP 2/Ejercicio10/bin/Debug/Ejercicio10.pdb
+/home/nicolas/c#/TP 2/Ejercicio10/obj/x86/Debug/Ejercicio10.exe
+/home/nicolas/c#/TP 2/Ejercicio10/obj/x86/Debug/Ejercicio10.pdb
+C:\c#\TP 2\Ejercicio 10\bin\Debug\Ejercicio10.exe.config
+C:\c#\TP 2\Ejercicio 10\obj\x86\Debug\Ejercicio10.exe
+C:\c#\TP 2\Ejercicio 10\obj\x86\Debug\Ejercicio10.pdb
+C:\c#\TP 2\Ejercicio 10\obj\x86\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
